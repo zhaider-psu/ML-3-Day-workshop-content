@@ -36,31 +36,20 @@ Discovering hidden patterns in data and introduction to Neural Networks.
 
 ---
 
-## 💻 How to Start
-
-1.  **Open the Dashboard:**
-    Simply open `overview.html` in your web browser (Chrome, Firefox, Edge, etc.).
-
-2.  **Navigate:**
-    Use the interactive dashboard to jump between days and modules. Each module contains:
-    - **Theory:** Core concepts explained simply.
-    - **Interactive Demos:** Play with parameters to see ML in action.
-    - **Code:** Python code snippets using `scikit-learn`.
-
-## 🛠️ Requirements
-
-- **Web Browser:** A modern web browser to view the interactive course materials.
-
 ### ⚡ Quick Start: VS Code + Google Colab (Recommended)
 To avoid extensive local installations and start coding immediately:
+1.  **Run Code in the Cloud:**
+    -   You can copy the Python code snippets from the workshop directly into [Google Colab](https://colab.research.google.com/).
 
-1.  **Install VS Code:** Download and install [Visual Studio Code](https://code.visualstudio.com/).
-2.  **Install Extensions:**
+    
+    -   *Alternatively:* Use the VS Code extension to connect to a Colab runtime or manage your notebooks easily.
+
+
+2.  **Install VS Code:** Download and install [Visual Studio Code](https://code.visualstudio.com/).
+3.  **Install Extensions:**
     -   Open VS Code and go to the Extensions view (`Ctrl+Shift+X`).
     -   Search for **"Google Colab"** (or **"Jupyter"**) and install it.
-3.  **Run Code in the Cloud:**
-    -   You can copy the Python code snippets from the workshop directly into [Google Colab](https://colab.research.google.com/).
-    -   *Alternatively:* Use the VS Code extension to connect to a Colab runtime or manage your notebooks easily.
+
 
 ### 🐍 Local Python Setup (Optional)
 If you prefer running code on your own machine, you will need:
